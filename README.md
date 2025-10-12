@@ -222,3 +222,5 @@ modified:>2024-01-01
 | vimwiki | ✓ | ✓ | ✗ | manual |
 
 MIT
+
+# PR Merge: 2025-11-01 10:44:19
